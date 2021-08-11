@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: 100px auto;
+    color: yellowgreen;
+}
+
+body {
+    background-color: pink;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
